@@ -31,7 +31,7 @@ def deletar_usuario(user_id):
         DELETE FROM Usuarios
         WHERE id = ?''', (user_id,))
     conexao.commit()
-
+    return cursor.rowcount
 
 def listar_usuarios():
     cursor.execute('''SELECT * FROM Usuarios''')
