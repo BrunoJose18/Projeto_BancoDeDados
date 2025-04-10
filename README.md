@@ -21,87 +21,87 @@ O banco de dados `meu_banco.db` contém a tabela `Usuarios` com a seguinte estru
 
 ## ⚙️ Funcionalidades
 
-1. **Adicionar Usuário**: Insere novo usuário com nome e email. \**
+1. **Adicionar Usuário**: Insere novo usuário com nome e email.  
 
 ![image](https://github.com/user-attachments/assets/5216db70-6844-448a-a8af-078083b77953)
 
-2. **Atualizar Usuário**: Modifica dados de um usuário com base no ID. \**
+2. **Atualizar Usuário**: Modifica dados de um usuário com base no ID.  
 
 ![image](https://github.com/user-attachments/assets/ef1625e7-56dd-4fa4-b2bb-bf5f746ad65d)
 
-3. **Deletar Usuário**: Remove um usuário do banco pelo ID. \**
+3. **Deletar Usuário**: Remove um usuário do banco pelo ID.  
 
 ![image](https://github.com/user-attachments/assets/cbb3b578-0454-4bee-bd1b-14c87c06c25c)
 
-4. **Listar todos os Usuários**: Exibe todos os registros no banco de dados. \**
+4. **Listar todos os Usuários**: Exibe todos os registros no banco de dados.  
 
 ![image](https://github.com/user-attachments/assets/7bd7f712-7895-4e4b-9e63-d262461f40c2)
 
-5. **Buscar Usuário por Nome**: Busca parcial por nome. \**
+5. **Buscar Usuário por Nome**: Busca parcial por nome.  
 
 ![image](https://github.com/user-attachments/assets/a140faff-396e-4f64-880c-0e54fec1f00c)
 
-6. **Buscar Usuário por ID**: Busca exata pelo ID. \**
+6. **Buscar Usuário por ID**: Busca exata pelo ID.  
 
 ![image](https://github.com/user-attachments/assets/efc55b6e-a47f-4e8e-b1e2-60e01d549c4a)
 
-7. **Sair**: Encerra o programa. \**
+7. **Sair**: Encerra o programa.  
 
 ![image](https://github.com/user-attachments/assets/87c83308-d7d4-41dd-942c-2f7662c751ce)
 
 ---
 
 ## Execução do Sistema
-**O Sistema Iniciará mostrando o Menu de opções** \**
+**O Sistema Iniciará mostrando o Menu de opções**  
 (Chamando uma função que mostra o menu e dá início as tarefas ao escolher cada opção)
 
 ![image](https://github.com/user-attachments/assets/1ce02688-3d7e-45e7-8465-3b59d94479e3)
 
 ![image](https://github.com/user-attachments/assets/8298cf47-67cd-43c9-9c63-9cf51a0bcc6e)
 
-**Adicionando Usuário** \**
+**Adicionando Usuário**  
 Ao escolher a opção de Adicionar Usuário (1), o Sistema pedirá o nome e e-mail do usuário para adicionar ao banco.
 
 ![image](https://github.com/user-attachments/assets/7335045b-484e-47b7-a83e-ae5f95e5370c)
 
 ![image](https://github.com/user-attachments/assets/f82cab65-b90a-4224-b04b-0fb9a2fb4592)
 
-**Listando Usuários** \**
+**Listando Usuários**  
 Ao escolher a opção de Listar Usuários (2), o Sistema mostrará uma lista de todos os usuários cadastrados (ID, nome, email)
 
 ![image](https://github.com/user-attachments/assets/b26e84a1-c6c1-4b86-9670-9209e4679839)
 
 ![image](https://github.com/user-attachments/assets/0e204cde-a2e5-4fdb-b578-990b10ebbc5a)
 
-**Buscando Usuário por Nome** \**
+**Buscando Usuário por Nome**  
 Ao escolher a opção de Buscar por nome (3), será requisitado o nome do usuário que desja buscar, e aparecerá sua respectiva tabela (ID, nome, email)
 
 ![image](https://github.com/user-attachments/assets/bd87d538-14cd-4a8d-a26b-4a912ecddf5c)
 
 ![image](https://github.com/user-attachments/assets/5bbf96d1-37d3-4f23-871a-7dd3fbadc08a)
 
-**Buscando Usuário por ID** \**
+**Buscando Usuário por ID**  
 A busca de usuário por ID será feito através da opção 4, sendo pedido o ID do usuário e mostrado no terminal o usuário completo (ID, nome, email)
 
 ![image](https://github.com/user-attachments/assets/6f1a94ad-acc0-4760-a4ca-12d009569272)
 
 ![image](https://github.com/user-attachments/assets/a1b484a3-8bf1-41f1-8760-e1ff10fc04a5)
 
-**Atualizar Usuário** \**
+**Atualizar Usuário**  
 Ao escolher a opção de Atualizar Usuário (5), o sistema requisitará o ID do usuário e solicitará a troca do nome e email
 
 ![image](https://github.com/user-attachments/assets/94424a26-4dcc-4ab6-92ef-cf976b575ecc)
 
 ![image](https://github.com/user-attachments/assets/d4271be9-92a3-447a-8d42-50da3a78d117)
 
-**Deletando Usuário** \**
+**Deletando Usuário**  
 Ao escolher a opção de Deletar Usuário (6), o sistema requisitará o ID do usuário e excluirá o usuário da tabela
 
 ![image](https://github.com/user-attachments/assets/0ddd0873-c35c-44db-ba15-4f01d8cc3d24)
 
 ![image](https://github.com/user-attachments/assets/570ee090-8a48-49e1-9bb6-f503d199f8db)
 
-**Saindo do Sistema** \**
+**Saindo do Sistema**  
 Ao escolher a opção 0, o sistema encerra.
 
 ![image](https://github.com/user-attachments/assets/bcfd7982-cb21-473a-9cbf-15a1ab364bc2)
